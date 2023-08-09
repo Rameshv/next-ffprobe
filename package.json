@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "ffmpeg-static": "^5.1.0",
+    "ffprobe-static": "^3.1.0",
     "next": "canary",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
